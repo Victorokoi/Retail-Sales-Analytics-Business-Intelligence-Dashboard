@@ -142,3 +142,6 @@ retail-sales-analytics/
 ├── powerbi/
 ├── images/
 └── insights/
+## Dashboard Preview
+
+![Retail Sales Analytics Dashboard](images/dashboard_overview.png)
