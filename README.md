@@ -142,3 +142,5 @@ retail-sales-analytics/
 ├── powerbi/
 ├── images/
 └── insights/
+
+"C:\Users\USER\Downloads\dashboard_overview (1).png"
